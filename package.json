@@ -1,0 +1,44 @@
+{
+  "name": "cyclicbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord-api-types": "^0.37.8",
+    "dotenv": "^16.0.2",
+    "file-type": "^17.1.6",
+    "discord.js": "^14.3.0",
+    "fast-deep-equal": "^3.1.3",
+    "ieee754": "^1.2.1",
+    "peek-readable": "^5.0.0",
+    "lodash.snakecase": "^4.1.1",
+    "readable-web-to-node-stream": "^3.0.2",
+    "readable-stream": "^3.6.0",
+    "safe-buffer": "^5.2.1",
+    "inherits": "^2.0.4",
+    "string_decoder": "^1.3.0",
+    "strtok3": "^7.0.0",
+    "lodash.uniqwith": "^4.5.0",
+    "undici": "^5.10.0",
+    "tslib": "^2.4.0",
+    "token-types": "^5.0.1",
+    "util-deprecate": "^1.0.2",
+    "ts-mixer": "^6.0.1",
+    "ws": "^8.8.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redbirdjs/cyclicbot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redbirdjs/cyclicbot/issues"
+  },
+  "homepage": "https://github.com/redbirdjs/cyclicbot#readme"
+}
