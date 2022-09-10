@@ -13,6 +13,7 @@ client.on('messageCreate', function(msg) {
 
   if (msg.content.startsWith('ping')) {
     msg.reply('Pong!');
+    msg.channel.send('Hello world!');
   }
 });
 
